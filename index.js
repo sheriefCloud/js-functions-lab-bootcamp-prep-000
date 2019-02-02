@@ -17,4 +17,7 @@ function holidayCountdown(holiday,days){
   return 'It\'s ${days} until ${holiday}!'
 }
 
-console.log ( happyHollidays() ,happyHolidaysTo("You"), happyHolidayTo('Independence Day', 'you'), holidayCountdown("Mother's Day", 20))
+console.log ( happyHollidays())
+console.log(happyHolidaysTo("You"))
+console.log(happyHolidayTo('Independence Day', 'you'))
+console.log(holidayCountdown("Mother's Day", 20))
