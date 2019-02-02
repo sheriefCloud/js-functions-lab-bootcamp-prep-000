@@ -21,5 +21,3 @@ happyHollidays()
 happyHolidaysTo("You")
 happyHolidayTo('Independence Day', 'you')
 holidayCountdown("Mother's Day", 20)
-
-
