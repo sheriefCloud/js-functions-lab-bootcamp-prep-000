@@ -21,5 +21,3 @@ console.log ( happyHolidays())
 console.log(happyHolidaysTo("You"))
 console.log(happyHolidayTo("Independence Day", "you"))
 console.log(holidayCountdown(20, "Mother's Day"))
-
-
